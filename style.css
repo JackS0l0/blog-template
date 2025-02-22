@@ -649,6 +649,15 @@ body footer {
   body .navbarBlock {
     display: none;
   }
+  body .navbarMob span a.logo {
+    font-size: 7vw;
+  }
+  body .navbarMob span a.logo i {
+    font-size: 7vw;
+  }
+  body .navbarMob span .btn i {
+    font-size: 6vw;
+  }
   body .navbarMob span .offcanvas .offcanvas-body {
     color: 6vw;
   }

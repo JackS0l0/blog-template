@@ -686,6 +686,17 @@ body{
         }
         .navbarMob{
             span{
+                a.logo{
+                    font-size: 7vw;
+                    i{
+                        font-size: 7vw;
+                    }
+                }
+                .btn{
+                    i{
+                        font-size: 6vw;
+                    }
+                }
                 .offcanvas{
                     .offcanvas-body{
                         a{
