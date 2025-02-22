@@ -698,4 +698,15 @@ body footer {
   body main .postPage .descPost {
     font-size: 5vw;
   }
+  body main .mainBottomSlider div .mainBottomSliderArticle {
+    width: 100%;
+    height: 110vw;
+  }
+  body main .mainBottomSlider div .mainBottomSliderArticle .img img {
+    width: 100%;
+    height: 90vw;
+  }
+  body main .mainBottomSlider div .mainBottomSliderArticle .info .cate {
+    font-size: 3vw;
+  }
 }/*# sourceMappingURL=style.css.map */
