@@ -1,6 +1,5 @@
 {
-    "rewrites": [
-      { "source": "/assets/(.*)", "destination": "/template/assets/$1" }
-    ]
-  }
-  
+  "rewrites": [
+    { "source": "/assets/(.*)", "destination": "/assets/$1" }
+  ]
+}
