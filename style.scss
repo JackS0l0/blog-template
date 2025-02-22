@@ -684,6 +684,18 @@ body{
         .navbarBlock{
             display: none;
         }
+        .navbarMob{
+            span{
+                .offcanvas{
+                    .offcanvas-body{
+                        a{
+                            font-size: 6vw;
+                        }
+                        color: 6vw;
+                    }
+                }
+            }
+        }
         header{
             display: none;
         }
