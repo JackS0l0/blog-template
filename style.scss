@@ -714,6 +714,15 @@ body{
             .indexMainBlock{
                 display: none;
             }
+            .postPage{
+                .postHead{
+                    .img{
+                        img{
+                            height: 90vw;
+                        }
+                    }
+                }
+            }
         }
     }
 }
